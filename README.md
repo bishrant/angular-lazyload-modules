@@ -1,6 +1,6 @@
-# Lazyload
+A proof of concept to lazy load angular modules along with their dependencies without angular routing.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
+Created to work with Latest Angular 9 Ivy with AOT.
 
 ## Development server
 
